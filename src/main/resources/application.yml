@@ -1,0 +1,6 @@
+spring:
+  datasource:
+    driver-class-name: org.mariadb.jdbc.Driver
+    url: jdbc:mariadb://192.168.60.128:3306/blog?serverTimezone=Asia/Seoul
+    username: nagi
+    password: 123456
